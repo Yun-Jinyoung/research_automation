@@ -1,0 +1,11 @@
+2021-05-20 13:56:17,564 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2021-05-20 13:59:45,519 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2021-05-20 13:59:45,520 - spam_application.auxiliary.Auxiliary - INFO - creating an instance of Auxiliary
+2021-05-20 13:59:45,520 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2021-05-20 13:59:45,520 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2021-05-20 13:59:45,520 - spam_application.auxiliary.Auxiliary - INFO - doing something
+2021-05-20 13:59:45,520 - spam_application.auxiliary.Auxiliary - INFO - done doing something
+2021-05-20 13:59:45,521 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2021-05-20 13:59:45,521 - spam_application - INFO - calling auxiliary_module.some_function()
+2021-05-20 13:59:45,521 - spam_application.auxiliary - INFO - received a call to "some_function"
+2021-05-20 13:59:45,521 - spam_application - INFO - done with auxiliary_module.some_function()

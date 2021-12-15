@@ -1,0 +1,84 @@
+Open Source LICENSE
+Front
+Semantic UI
+https://github.com/Semantic-Org/Semantic-UI
+MIT License
+jquery
+https://github.com/jquery/jquery
+MIT License
+Chart.js
+https://github.com/chartjs/Chart.js
+MIT License
+cornerstone
+https://github.com/chafey/cornerstone
+MIT License
+cornerstoneWebImageLoader
+https://github.com/chafey/cornerstoneWebImageLoader
+MIT License
+cornerstoneWADOImageLoader
+https://github.com/chafey/cornerstoneWADOImageLoader
+MIT License
+cornerstoneTools
+https://github.com/chafey/cornerstoneTools
+MIT License
+dicomParser
+https://github.com/chafey/dicomParser
+MIT License
+jquery.dataTables
+https://github.com/DataTables/DataTables
+MIT License
+jquery.scrollTo
+https://github.com/flesler/jquery.scrollTo
+MIT License
+flatpickr
+https://github.com/chmln/flatpickr
+MIT License
+moment.js
+https://github.com/moment/moment
+MIT License
+gulp
+https://github.com/gulpjs/gulp
+MIT License
+gulp-uglify
+https://github.com/terinjokes/gulp-uglify
+MIT License
+gulp-concat
+https://github.com/contra/gulp-concat
+MIT License
+gulp-minify-html
+https://www.npmjs.com/package/gulp-minify-html
+MIT License
+gulp-clean-css
+https://github.com/scniro/gulp-clean-css
+MIT License
+gulp-livereload
+https://github.com/vohof/gulp-livereload
+MIT License
+gulp-jslint
+https://github.com/karimsa/gulp-jslint
+MIT License
+Back.
+SQLite
+http://www.sqlite.org/
+Public Domain License
+Flask
+https://github.com/pallets/flask
+BSD-3-Clause License
+Flask-Login
+https://github.com/maxcountryman/flask-login
+MIT License
+Flask-RESTful
+https://github.com/flask-restful/flask-restful
+BSD-3 Clause License
+Flask-SQLAlchemy
+https://github.com/mitsuhiko/flask-sqlalchemy
+BSD-3 Clause License
+Flask-WTF
+https://github.com/lepture/flask-wtf
+BSD-3 Clause License
+Marshmallow
+https://github.com/marshmallow-code/marshmallow
+MIT License
+SQLAlchemy
+https://github.com/zzzeek/sqlalchemy
+MIT License
